@@ -1,4 +1,4 @@
-## Hi This is for testing
+# Hi This is for testing
 **Version 2.4**
 
 Welcome to the full test template for the github md import feature of AEM. This document covers all the styles availalbe and how to implement.
