@@ -44,7 +44,7 @@ Subscript
 X^2^
 ```
 
-Superscript example: H<sub>2</sub>O
+Superscript example: H<sup>2</sup>O
 
 Subscript example: X<sup>2</sup>
 
