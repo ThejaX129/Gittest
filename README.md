@@ -46,7 +46,7 @@ X^2^
 
 Superscript example: H<sub>2</sub>O
 
-Subscript example: X<sub>2</sub>
+Subscript example: X<sup>2</sup>
 
 
 <br><br>
@@ -100,7 +100,7 @@ Here's a sentence with a footnote. [^2]
 ***
 ## Examples of math in .md
 
-This expression \\(\\sum\_{i=1}^n X\_i\\) is inlined but doesn't work at the moment.
+This expression \\(\\sum\_{i=1}^n X\_i\)\\ is inlined but doesn't work at the moment.
 
 When this is a full expression, it works fine.
 $$
