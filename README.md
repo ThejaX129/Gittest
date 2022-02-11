@@ -96,6 +96,10 @@ Here's a sentence with a footnote. [^2]
   
 [^2]: This is another footnote to go with the first.
 
+This is sentence for test footnote. [^3]
+
+[^3]: This is one more footnote for test
+
 <br><br>
 ***
 ## Examples of math in .md
