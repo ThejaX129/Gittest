@@ -357,4 +357,5 @@ To find the video ID, simply right click on the video on developer.intel.com and
 </div>
 
 <b id="f1">1</b> Footnote content here. [↩](#a1)
-<a name="myfootnote1">1</a>: Footnote content goes here [↩]
+
+<c name="myfootnote1">1</c>: Footnote content goes here [↩](#a1)
