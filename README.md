@@ -102,6 +102,9 @@ This is sentence for test footnote. [^3]
 
 Bla bla <sup id="a1">[1](#f1)</sup>
 
+<sup>[1](#myfootnote1)</sup>
+
+
 <br><br>
 ***
 ## Examples of math in .md
@@ -354,3 +357,4 @@ To find the video ID, simply right click on the video on developer.intel.com and
 </div>
 
 <b id="f1">1</b> Footnote content here. [↩](#a1)
+<a name="myfootnote1">1</a>: Footnote content goes here [↩]
