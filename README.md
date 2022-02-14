@@ -96,12 +96,6 @@ Here's a sentence with a footnote. [^2]
   
 [^2]: This is another footnote to go with the first.
 
-This is sentence for test footnote. [^3]
-
-[^3]: This is one more footnote for test
-
-<sup>[1](#myfootnote1)</sup>
-
 New footnotes <sup id="a1">[1](#c2)</sup>
 <br><br>
 ***
@@ -355,4 +349,3 @@ To find the video ID, simply right click on the video on developer.intel.com and
 </div>
 
 <b id="c2">1</b> Test footnote content here. [↩](#a1)
-<c name="myfootnote1">1</c>: Footnote content goes here [↩](#myfootnote1)
