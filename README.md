@@ -100,6 +100,10 @@ This is sentence for test footnote. [^3]
 
 [^3]: This is one more footnote for test
 
+<a name="myfootnote1">1</a>: Footnote content goes here
+
+<sup>[1](#myfootnote1)</sup>
+
 <br><br>
 ***
 ## Examples of math in .md
