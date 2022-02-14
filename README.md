@@ -102,7 +102,7 @@ This is sentence for test footnote. [^3]
 
 <a name="myfootnote1">1</a>: Footnote content goes here
 
-<sup>[1](#myfootnote1)</sup>
+<sup>This is new footnote[1](#myfootnote1)</sup>
 
 <br><br>
 ***
