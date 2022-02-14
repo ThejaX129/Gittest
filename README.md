@@ -100,7 +100,8 @@ This is sentence for test footnote. [^3]
 
 [^3]: This is one more footnote for test
 
-<sup>This is new footnote[1](#myfootnote1)</sup>
+<sup>This is new footnote[4]</sup>
+[^4]: Footnote content goes here
 
 <br><br>
 ***
@@ -352,4 +353,4 @@ To find the video ID, simply right click on the video on developer.intel.com and
     <iframe src="https://players.brightcove.net/740838651001/default_default/index.html?videoId=6286027295001" allowfullscreen="" allow="encrypted-media" style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"></iframe>
   </div>
 </div>
-<a name="myfootnote1">1</a>: Footnote content goes here
+
