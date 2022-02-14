@@ -101,7 +101,7 @@ This is sentence for test footnote. [^3]
 [^3]: This is one more footnote for test
 
 Bla bla <sup id="a1">[1](#f1)</sup>
-<b id="f1">1</b> Footnote content here. [↩](#a1)
+
 <br><br>
 ***
 ## Examples of math in .md
@@ -353,3 +353,4 @@ To find the video ID, simply right click on the video on developer.intel.com and
   </div>
 </div>
 
+<b id="f1">1</b> Footnote content here. [↩](#a1)
