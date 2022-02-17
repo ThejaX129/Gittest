@@ -71,7 +71,7 @@ This doesn't work with our template. We have requested some code updates so that
 
 > We're living the future so
 > the present is our past.
-> 
+>Hi this is test blockquote
 <br><br>
 ***
 ### CSS Attribution - Requested
@@ -97,16 +97,6 @@ Here's a sentence with a footnote. [^2]
 [^2]: This is another footnote to go with the first.
 
 New footnotes <sup id="a1">[1](#c2)</sup>
-
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-   
 
 <br><br>
 ***
