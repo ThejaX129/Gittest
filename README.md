@@ -72,6 +72,7 @@ This doesn't work with our template. We have requested some code updates so that
 > We're living the future so
 > the present is our past.
 >Hi this is test blockquote
+<blockquote>Test quote</blockquote>
 <br><br>
 ***
 ### CSS Attribution - Requested
