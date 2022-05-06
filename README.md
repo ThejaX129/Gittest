@@ -108,7 +108,7 @@ New footnotes <sup id="a1">[1](#c2)</sup>
 ***
 ## Examples of math in .md
 
-This expression \(\sum\_{i=1}^n X\_i\) is inlined but doesn't work at the moment.
+This expression (\sum\_{i=1}^n X\_i\) is inlined but doesn't work at the moment.
 
 When this is a full expression, it works fine.
 $$
